@@ -1,7 +1,0 @@
-<layout version="0.1.0">
-    <default>
-		<reference name="right">
-			<block type="carousel/carousel" name="carousel_carousel" template="carousel/carousel.phtml"></block>
-		</reference>
-	</default>
-</layout>
