@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Casian_Carousel>
+            <version>1.0</version>
+        </Casian_Carousel>
+    </modules>
+    <global>
+        <blocks>
+            <carousel>
+                <class>Casian_Carousel_Block</class>
+            </carousel>
+        </blocks>
+        <models>
+	<carousel>
+		<class>Casian_Carousel_Model</class>
+	</carousel>
+        </models>
+    </global>
+</config>
