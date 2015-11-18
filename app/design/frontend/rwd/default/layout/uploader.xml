@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <layout version="0.1.0">
-   
+
 		<reference name="right">
 			<block type="uploader/uploader" name="uploader_uploader" template="uploader/uploader.phtml"></block>
 		</reference>
 	
+
 </layout>
