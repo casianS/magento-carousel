@@ -1,0 +1,12 @@
+<layout version="0.1.0">
+<default>    
+		<reference name="right">
+			<block type="carousel/carousel"  after="right.poll" name="carousel_carousel" template="carousel/carousel.phtml"></block>
+        </reference>
+            
+        <reference name="right">
+			<block type="uploader/uploader" name="uploader_uploader" template="uploader/uploader.phtml"></block>
+         </reference>
+
+        </default>    
+</layout>
