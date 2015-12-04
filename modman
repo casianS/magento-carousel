@@ -2,8 +2,8 @@ app/code/local/Casian/                                                          
 app/design/frontend/rwd/default/layout/carousel.xml                                          app/design/frontend/rwd/default/layout/carousel.xml
 app/design/frontend/rwd/default/layout/local.xml                                             app/design/frontend/rwd/default/layout/local.xml
 app/design/frontend/rwd/default/layout/uploader.xml                                          app/design/frontend/rwd/default/layout/uploader.xml
-app/design/frontend/rwd/default/carousel/                                                    app/design/frontend/rwd/default/carousel/
-app/design/frontend/rwd/default/uploader/                                                    app/design/frontend/rwd/default/uploader/
+app/design/frontend/rwd/default/template/carousel/                                                    app/design/frontend/rwd/default/template/carousel/
+app/design/frontend/rwd/default/template/uploader/                                                    app/design/frontend/rwd/default/template/uploader/
 app/etc/modules/Carousel.xml                                                                 app/etc/modules/Carousel.xml
 app/etc/modules/Uploader.xml                                                                 app/etc/modules/Uploader.xml
 js/bootstrap/                                                                                js/bootstrap/
